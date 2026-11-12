@@ -256,4 +256,4 @@ That avoids spending an hour on a batch that had the wrong settings.
 
 ---
 
-*local-ai-image-generator · Updated 2026-11-11 · Shared under the MIT License*
+*local-ai-image-generator · Updated 2026-11-12 · Shared under the MIT License*
